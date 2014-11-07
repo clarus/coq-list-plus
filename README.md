@@ -3,9 +3,9 @@ More functions on lists.
 
 ## Install
 ### With OPAM
-Add the Coq repository:
+Add the Coq unstable repository:
 
-    opam repo add coq-stable https://github.com/coq/repo-stable.git
+    opam repo add coq-unstable https://github.com/coq/repo-unstable.git
 
 and run:
 
