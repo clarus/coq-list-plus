@@ -1,4 +1,4 @@
-# ![Logo](https://raw.githubusercontent.com/clarus/icons/master/list-48.png) List
+# ![Logo](https://raw.githubusercontent.com/clarus/icons/master/list-48.png) ListPlus
 More functions on lists.
 
 ## Install
@@ -9,7 +9,7 @@ Add the Coq repository:
 
 and run:
 
-    opam install coq:list
+    opam install coq:list-plus
 
 ### From the sources
 Run:
@@ -21,7 +21,7 @@ Run:
 ## Use
 Add:
 
-    Require Import List.All.
+    Require Import ListPlus.All.
 
 at the beginning of your source files. The library will be available under the `List` module.
 
