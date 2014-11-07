@@ -26,3 +26,4 @@ Add:
 at the beginning of your source files. The library will be available under the `List` module.
 
 ## Reference
+* `repeat {A : Type} (x : A) (n : nat) : list A` Make a list of `n` elements `x`.
