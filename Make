@@ -1,5 +1,5 @@
--R . ListPlus
+-R src ListPlus
 
-All.v
-List.v
-Sort.v
+src/All.v
+src/List.v
+src/Sort.v
