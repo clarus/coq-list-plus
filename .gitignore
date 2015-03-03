@@ -5,3 +5,4 @@ Makefile.bak
 *.v.d
 *.aux
 .coq-native/
+html/
