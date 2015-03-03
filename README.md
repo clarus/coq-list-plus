@@ -24,3 +24,6 @@ Add:
     Require Import ListPlus.All.
 
 at the beginning of your source files.
+
+## API
+See the complete documentation online on [doc/list-plus](http://clarus.github.io/doc/list-plus/toc.html).
