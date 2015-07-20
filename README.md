@@ -5,11 +5,11 @@ More functions on lists.
 ### With OPAM
 Add the Coq repository:
 
-    opam repo add coq-stable https://github.com/coq/repo-stable.git
+    opam repo add coq-released https://coq.inria.fr/opam/released
 
 and run:
 
-    opam install coq:list-plus
+    opam install -j4 coq:list-plus
 
 ### From the sources
 Run:
@@ -24,6 +24,3 @@ Add:
     Require Import ListPlus.All.
 
 at the beginning of your source files.
-
-## API
-See the complete documentation online on [doc/list-plus](http://clarus.github.io/doc/list-plus/toc.html).
